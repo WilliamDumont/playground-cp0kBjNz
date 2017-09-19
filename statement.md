@@ -1,6 +1,6 @@
 # Welcome!
 
-This Swift template lets 
+This Swift template
 ```swift runnable
 print("Hello World!")
 ```
