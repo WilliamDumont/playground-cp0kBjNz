@@ -1,6 +1,6 @@
 # Welcome!
 
-This Swift template lets you get started quick
+This Swift template lets you get star
 
 ```swift runnable
 print("Hello World!")
