@@ -1,6 +1,6 @@
 # Welcome!
 
-This Swift template lets you get started quickly with a simple one-page 
+This Swift template lets you get started quickly with a simpl
 
 ```swift runnable
 print("Hello World!")
